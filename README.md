@@ -1,6 +1,6 @@
-# twitter_analisys
-Análise de tweets sobre os principais candidatos a presidência do Brasil em 2022.
-Esses notebooks incluem vários passos que vão desde a extração dos dados no twitter até uso de deep learning para encontrar os sentimentos dos tweets. 
+# Análise de tweets sobre os principais candidatos a eleições brasileiras em 2022
+Esses notebooks incluem análises de tweets sobre os principais candidatos a presidência do Brasil em 2022.
+ISão várias etapas que vão desde a extração dos dados no twitter até uso de deep learning para encontrar os sentimentos dos tweets. 
 
 ## Passos
 1. Extração dos tweets
